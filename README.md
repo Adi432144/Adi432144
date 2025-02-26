@@ -1,4 +1,4 @@
-![logo](logo (1).png)
+![logo](logo(1).png)
 <h1 align="center">Hi 👋, I'm MOHAMMAD ADI</h1>
 <h3 align="center">A passionate GAME DEVELOPMENT from India</h3>
 <!-- <img align="right" alt="coding" width="400" src="paste the image or gif link from browser that you want to show"> -->
