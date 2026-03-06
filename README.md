@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1B2&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MOHAMMAD+ADI;Game+Developer;Full-Stack+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1B2&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MOHAMMAD+ADI;Game+Developer;Full-Stack+Developer" alt="Typing SVG" />
 
   <p><strong>Computer Science Engineering Student @ Integral University, Lucknow</strong></p>
 
