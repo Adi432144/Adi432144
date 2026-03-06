@@ -1,48 +1,63 @@
-![logo](logo(3).png)
-<h1 align="center">Hi 👋, I'm MOHAMMAD ADI</h1>
-<h3 align="center">A passionate GAME DEVELOPER from India</h3>
-<!-- <img align="right" alt="coding" width="400" src="paste the image or gif link from browser that you want to show"> -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1B2&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MOHAMMAD+ADI;Game+Developer;Full-Stack+Explorer" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhkhannh23&label=Profile%20views&color=0e75b6&style=flat" alt="nhkhannh23" /> </p>
+  <p><strong>Computer Science Engineering Student @ Integral University, Lucknow</strong></p>
 
-- 🔭 I’m currently Studing Computer Science Engineering *From Integral University Lucknow*
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Adi432144&label=Profile%20views&color=0e75b6&style=flat-square" alt="Adi432144" />
+  </p>
+</div>
 
-- 🌱 I’m currently learning *Game Development , Graphics design and Web devlopment*
+---
 
-- 🤝 I’m looking for help with *fullStack development and Game Devlopment*
+### 👨‍💻 About Me
 
-- 💬 Ask me about *Unity,HTML and CSS*
+- 🔭 **Currently Focusing On:** Strengthening my Game Development skills and Full-Stack Web architectures.
+- 🌱 **Learning Path:** Mastering **Unity Engine**, Advanced **Python**, and Graphics Design.
+- 🤝 **Collaboration:** Open to working on Open Source AI tools and Game jams.
+- 💬 **Ask Me About:** Unity, HTML/CSS, and building AI-integrated Streamlit apps.
+- 📫 **Reach Me:** [mdadiprivate31@gmail.com](mailto:mdadiprivate31@gmail.com)
 
-- 📫 How to reach me *mdadiprivate31@gmail.com*
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **🤖 Streamlit AI** | Python, Gemini 1.5 Flash | [View Repo](https://github.com/Adi432144/STREAMLIT-AI) |
+| **👓 Waris Optical** | HTML, CSS, JS | [View Repo](https://github.com/Adi432144/WARIS-OPTICAL-APPOINTMNET) |
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="mohammad-adi-748109306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noorul-haq-a89b7a255" height="30" width="40" /></a>
-<!-- <a href="paste instagram link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paste your instagram usernamev" height="30" width="40" /></a> -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi432144&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi432144&layout=compact&theme=tokyonight" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi432144&theme=tokyonight" alt="Adi432144" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adi432144&show_icons=true&locale=en&layout=compact" alt="Adi432144" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi432144&show_icons=true&locale=en" alt="Adi432144" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi432144&" alt="Adi432144" /></p>
-
-
-
-<!---
-Adi432144/Adi432144 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/mohammad-adi-748109306" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
