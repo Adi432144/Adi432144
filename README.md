@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Core Focus:** Software Engineer with a specialized interest in **Web Architecture** and **Immersive Game Development**[cite: 6]. [cite_start]I bridge the gap between creative storytelling  [cite_start]and performance-optimized code[cite: 13, 37].
+- 🚀 **Core Focus:** Software Engineer with a specialized interest in **Web Architecture** and **Immersive Game Development** I bridge the gap between creative storytelling and performance-optimized code.
 - 🎓 **Background:** Currently pursuing/holding a **B.Tech in Computer Science Engineering** from Integral University Lucknow. 
-- 🛠️ **Current Initiatives:** Deepening my expertise in cross-platform systems with **.NET MAUI** [cite: 35, 44][cite_start], building interactive mechanics in **Unity Engine** , and architecting full-stack web solutions.
+- 🛠️ **Current Initiatives:** Deepening my expertise in cross-platform systems with **.NET MAUI**, building interactive mechanics in **Unity Engine** , and architecting full-stack web solutions.
 - 🤝 **Collaboration Interests:** Eager to contribute to **Game Jams**, **Open-Source AI integrations**, and innovative web ecosystems where technical challenge meets design.
 - 💬 **Let's Talk Tech:** Ask me about building smooth real-time logic loops, designing pattern-recognition gameplay , data processing pipelines, or custom web experiences.
 - 📬 **Get In Touch:** Connect with me directly at [mdadiprivate31@gmail.com](mailto:mdadiprivate31@gmail.com).
