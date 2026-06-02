@@ -53,20 +53,21 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></a>
 </p>
-
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi432144&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi432144&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi432144&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Adi432144's GitHub stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi432144&layout=compact&theme=tokyonight&langs_count=8" alt="Adi432144's top languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi432144&theme=tokyonight" alt="Adi432144" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi432144&theme=tokyonight" alt="Adi432144's GitHub streak" />
+</div>
 
 ---
-
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammad-adi-748109306" target="blank">
