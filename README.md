@@ -12,12 +12,12 @@
 
 ### 👨‍💻 About Me
 
-- [cite_start]🚀 **Core Focus:** Software Engineer with a specialized interest in **Web Architecture** and **Immersive Game Development**[cite: 6]. [cite_start]I bridge the gap between creative storytelling  [cite_start]and performance-optimized code[cite: 13, 37].
-- [cite_start]🎓 **Background:** Currently pursuing/holding a **B.Tech in Computer Science Engineering** from Integral University Lucknow. 
-- [cite_start]🛠️ **Current Initiatives:** Deepening my expertise in cross-platform systems with **.NET MAUI** [cite: 35, 44][cite_start], building interactive mechanics in **Unity Engine** [cite: 9, 44][cite_start], and architecting full-stack web solutions[cite: 33].
+- 🚀 **Core Focus:** Software Engineer with a specialized interest in **Web Architecture** and **Immersive Game Development**[cite: 6]. [cite_start]I bridge the gap between creative storytelling  [cite_start]and performance-optimized code[cite: 13, 37].
+- 🎓 **Background:** Currently pursuing/holding a **B.Tech in Computer Science Engineering** from Integral University Lucknow. 
+- 🛠️ **Current Initiatives:** Deepening my expertise in cross-platform systems with **.NET MAUI** [cite: 35, 44][cite_start], building interactive mechanics in **Unity Engine** , and architecting full-stack web solutions.
 - 🤝 **Collaboration Interests:** Eager to contribute to **Game Jams**, **Open-Source AI integrations**, and innovative web ecosystems where technical challenge meets design.
-- [cite_start]💬 **Let's Talk Tech:** Ask me about building smooth real-time logic loops [cite: 37][cite_start], designing pattern-recognition gameplay [cite: 38][cite_start], data processing pipelines [cite: 17][cite_start], or custom web experiences[cite: 29].
-- [cite_start]📬 **Get In Touch:** Connect with me directly at [mdadiprivate31@gmail.com](mailto:mdadiprivate31@gmail.com)[cite: 3].
+- 💬 **Let's Talk Tech:** Ask me about building smooth real-time logic loops, designing pattern-recognition gameplay , data processing pipelines, or custom web experiences.
+- 📬 **Get In Touch:** Connect with me directly at [mdadiprivate31@gmail.com](mailto:mdadiprivate31@gmail.com).
 
 ---
 
