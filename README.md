@@ -33,14 +33,26 @@
 
 <p align="left">
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet-maui" /></a>
+  
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" /></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /></a>
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /></a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql" /></a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a>
-</p>
 
----
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" /></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></a>
+</p>
 
 ### 📊 My GitHub Stats
 
