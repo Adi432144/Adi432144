@@ -24,8 +24,13 @@
 
 | Project | Tech Stack | Link |
 | :--- | :--- | :--- |
+| **🎮 Animal Match-Making Game** | C#, .NET MAUI, XAML | [View Repo](https://github.com/Adi432144/ANIMAL-MATCH-MAKING-GAME-USING-C-) |
 | **🤖 Streamlit AI** | Python, Gemini 1.5 Flash | [View Repo](https://github.com/Adi432144/STREAMLIT-AI) |
 | **👓 Waris Optical** | HTML, CSS, JS | [View Repo](https://github.com/Adi432144/WARIS-OPTICAL-APPOINTMNET) |
+| **📜 Digital Credentials & Certifications** | GitHub Repository | [View Repo](https://github.com/Adi432144/CERTIFICATE) |
+| **📄 Professional Resume Repository** | Markdown, PDF | [View Repo](https://github.com/Adi432144/RESUME) |
+
+---
 
 ---
 
